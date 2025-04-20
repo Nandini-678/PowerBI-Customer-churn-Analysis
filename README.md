@@ -34,7 +34,7 @@ This project uses the [Telco Customer Churn Dataset](https://www.kaggle.com/data
 
 ## 📷 Dashboard Preview
 
-> *image.png*
+[> *image.png*](https://www.linkedin.com/in/tgnandini/)
 
 ## 📁 Files Included
 
